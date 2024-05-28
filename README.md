@@ -15,11 +15,14 @@ Hello! I'm Anna Isabel John, a Post graduate student with a passion for cyber se
 ## Projects
 Here are some of the notable projects I've worked on:
 
-### [Project Name 1]
-- **Description**: Brief description of what the project is about.
-- **Technologies Used**: List of technologies and tools used.
-- **Features**: Key features or functionalities.
-- **Link**: [GitHub Repository](https://github.com/annajohn123/AI-ENABLED-PHISHING-DETECTION-PLUGIN.git)
+### AI-Enabled Phishing Detection Model
+- **Description**: The AI-enabled phishing detection model aims to identify phishing websites with high precision and recall by leveraging ensemble learning techniques. It combines multiple base classifiers to improve overall performance and reliability.
+- **Technologies Used**: Python, Scikit-learn
+- **Features**: 
+  - Ensemble learning techniques including Random Forest, Gradient Boosting, and AdaBoost.
+  - Extensive data preprocessing including cleaning, scaling, and feature selection.
+  - Evaluation metrics such as accuracy, precision, recall, and F1-score to assess model performance.
+
 
 ### [Project Name 2]
 - **Description**: Brief description of what the project is about.
