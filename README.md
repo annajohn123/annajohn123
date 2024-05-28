@@ -19,7 +19,7 @@ Here are some of the notable projects I've worked on:
 - **Description**: Brief description of what the project is about.
 - **Technologies Used**: List of technologies and tools used.
 - **Features**: Key features or functionalities.
-- **Link**: [GitHub Repository](https://github.com/yourusername/project1) | [Live Demo](https://yourprojectdemo.com)
+- **Link**: [GitHub Repository](https://github.com/annajohn123/AI-ENABLED-PHISHING-DETECTION-PLUGIN.git)
 
 ### [Project Name 2]
 - **Description**: Brief description of what the project is about.
