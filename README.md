@@ -1,4 +1,4 @@
-# [Anna Isabel John]
+# Anna Isabel John
 
 Welcome to my GitHub portfolio! Here you'll find a collection of my projects, code samples, and contributions. Feel free to explore and reach out if you have any questions or collaboration ideas.
 
@@ -10,7 +10,7 @@ Welcome to my GitHub portfolio! Here you'll find a collection of my projects, co
 - [Acknowledgements](#acknowledgements)
 
 ## About Me
-Hello! I'm [Anna Isabel John], a [Post graduate student] with a passion for [cyber security ,software development, machine learning]. I enjoy creating innovative solutions to complex problems and am always eager to learn new technologies and improve my skills.
+Hello! I'm Anna Isabel John, a Post graduate student with a passion for cyber security ,software development, machine learning. I enjoy creating innovative solutions to complex problems and am always eager to learn new technologies and improve my skills.
 
 ## Projects
 Here are some of the notable projects I've worked on:
