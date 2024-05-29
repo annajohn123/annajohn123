@@ -34,6 +34,20 @@ Here are some of the projects I've worked on:
 
 - **Link**: [GitHub Repository](https://github.com/annajohn123/CVD-Risk-prediction-using-AI-analysis-of-retinal-images.git)
 
+  ### Decentralized Image Upload and Sharing
+- **Description**:This project facilitates decentralized image upload and sharing on the blockchain using Solidity for the smart contract and React for the front-end interface. It enables users to securely upload images to IPFS (InterPlanetary File System) and share access with specified users through smart contract functionality.
+
+- **Technologies Used**:- **Solidity:** Smart contract development for ownership and access control.
+- **React:** Front-end interface for uploading images and managing access.
+- **IPFS:** Decentralized storage protocol for hosting uploaded images.
+- **Features**:
+ - Decentralized Storage: Images are uploaded to IPFS, ensuring decentralized and immutable storage.
+- Smart Contract: Utilizes Solidity smart contracts on the Ethereum blockchain for access control and ownership management.
+- Access Control: Users can grant or revoke access to their uploaded images to specific individuals through the smart contract.
+
+- **Link**: [GitHub Repository](https://github.com/annajohn123/Decentralized-Image-Upload-and-Sharing.git)
+
+
 
 ## Skills
 Here are some of the skills and technologies I am proficient in:
