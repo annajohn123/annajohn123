@@ -10,10 +10,10 @@ Welcome to my GitHub portfolio! Here you'll find a collection of my projects, co
 
 
 ## About Me
-Hello! I'm Anna Isabel John, a Post graduate student with a passion for cyber security ,software development, machine learning. I enjoy creating innovative solutions to complex problems and am always eager to learn new technologies and improve my skills.
+Hello! I'm Anna Isabel John, a postgraduate student passionate about cybersecurity, software development, and machine learning. I thrive on creating innovative solutions to complex problems and am constantly seeking to learn new technologies and enhance my skills.
 
 ## Projects
-Here are some of the notable projects I've worked on:
+Here are some of the projects I've worked on:
 
 ### AI-Enabled Phishing Detection Model
 - **Description**: The AI-enabled phishing detection model aims to identify phishing websites with high precision and recall by leveraging ensemble learning techniques. It combines multiple base classifiers to improve overall performance and reliability.
