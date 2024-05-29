@@ -40,6 +40,8 @@ Here are some of the skills and technologies I am proficient in:
 - **Programming Languages**: Python, JavaScript,C, Ruby, Ruby on Rails
 - **Web Development**: HTML, CSS, Typescript, Tailwind CSS
 - **Network Security Tools**: Darktrace, Rapid7, TrendMicro, FortiGate firewall, Mimecast, Wireshark
+- **Ability to generate and recognize attack signatures and patterns.**
+- **Enhanced knowledge of network protocols and security vulnerabilities.**
 - **AWS CLOUD**
 
 ## Contact
